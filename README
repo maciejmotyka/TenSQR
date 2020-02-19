@@ -17,7 +17,7 @@ Check config file format (configure to your setting)
 Running TenSQR:
 -----------------
 Command : ExtractMatrix <config file> 
-          python3 TenSQR <config file>
+          python3 TenSQR.py <config file>
 
 Output : <zone name>_ViralSeq.txt (reconstructed viral quasispecies and their frequencies are reported in text format)
 
